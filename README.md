@@ -2,7 +2,7 @@
 
 ## Autor: Kamil Malicki
 
-- To jest prosty gra typu SandBox z możliwością budowania struktrur stworzony przy użyciu silnika gry Ursina.
+- To jest prosty gra typu SandBox z możliwością budowania struktrur. Gra jest napisana w języku Python przy użyciu silnika gry Ursina.
 
 ### Jak Grać:
 - Użyj myszy, aby się rozglądać.
