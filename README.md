@@ -1,4 +1,5 @@
 # PyCraft
+
 ## Autor: Kamil Malicki
 
 To jest prosty gra typu SandBox z możliwością budowania struktrur stworzony przy użyciu silnika gry Ursina.
